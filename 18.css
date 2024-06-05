@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(239, 200, 200);
+}
+.main{
+    margin-top: 4%;
+    margin-left: 27%;
+    width: 50%;
+    display: flex;
+    box-shadow: 5px 5px 5px lightslategrey;
+}
+.login{
+    width: 50%;
+    height: 27rem;
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.about{
+    width: 50%;
+    height: 27rem;
+    background-color: rgb(255, 10, 0);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+h1, p{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+.logo{
+    text-align: center;
+}
+#mail, #pass{
+    line-height: 5px;
+    margin-left: 45px;
+    width: 80%;
+    height: 30px;
+    background-color: lightgray;
+    border: 0;
+    padding: 3px;
+}
+.a{
+    color: black;
+    text-decoration: none;
+    margin-left: 35%;
+}
+#log{
+    background-color: rgb(255, 10, 0);
+    border-radius: 20px;
+    border: 0;
+    width: 120px;
+    height: 30px;
+    margin-left: 37%;
+    color: white;
+    padding: 2px;
+}
+#pass{
+    margin-top: 10px;
+}
+#a1{
+    color: black;
+    padding: 5px;
+    line-height: 10px;
+}
+#a2{
+    color: white;
+    margin-top: 35%;
+    margin-left: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#a3{
+    color: white;
+    padding-left: 10%;
+    font-size:large;
+    opacity: 85%;
+}
