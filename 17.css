@@ -2,7 +2,7 @@ body{
     background: linear-gradient(to right,rgb(173, 26, 163),lightpink);
     font-family: 'Alatsi';font-size: 22px;
 }
-.main{
+form{
     margin-top: 10%;
     margin-left: 40%;
     background-color: white;
